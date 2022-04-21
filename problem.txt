@@ -1,0 +1,2 @@
+A 4-digit number is a perfect square. When I add 1 to each of the digits, another 4-digit perfect square is formed.
+Which is the smaller of the perfect squares?
